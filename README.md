@@ -1,6 +1,7 @@
 <!-- ![github-header-image (1) (1)](https://github.com/TulsiRam87/TulsiRam87/assets/115212075/0465d593-c6b1-4cbb-85bd-81569541327a) -->
 <!-- ![github-header-image (1) (1) (1) (1)](https://github.com/TulsiRam87/TulsiRam87/assets/115212075/6a4c088c-a4bc-453e-8c91-f0e05976c091) -->
-![github-header-image (1) (1) (1) (1) (2)](https://github.com/TulsiRam87/TulsiRam87/assets/115212075/00adc5dc-83c0-40f5-8fdc-1e0063e9139d)
+<!-- ![github-header-image (1) (1) (1) (1) (2)](https://github.com/TulsiRam87/TulsiRam87/assets/115212075/00adc5dc-83c0-40f5-8fdc-1e0063e9139d) -->
+![github-header-image (2) (1) (1)](https://github.com/TulsiRam87/TulsiRam87/assets/115212075/0c465720-7b06-4330-9537-56565427d580)
 
 
 <h1 align="center">Hi 👋, I'm Tulsi Ram</h1>
